@@ -29,7 +29,7 @@ session_start();
 				<li>Para encriptar el password se utiliza el algoritmo MD5.</li>
                 <li>El sistema utiliza el método POST para el envío del registro y login de sesión.</li>
 			</ol>
-			
+			<!--Esto es un comentario-->
 
 	</div>
 	</div>
